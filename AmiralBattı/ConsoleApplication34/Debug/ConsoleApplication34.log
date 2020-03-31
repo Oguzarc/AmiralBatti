@@ -1,0 +1,10 @@
+﻿  fonksiyonlar.cpp
+c:\users\berat\onedrive\belgeler\visual studio 2017\projects\consoleapplication34\consoleapplication34\fonksiyonlar.cpp(15): warning C4101: 'pcmatris': unreferenced local variable
+c:\users\berat\onedrive\belgeler\visual studio 2017\projects\consoleapplication34\consoleapplication34\fonksiyonlar.cpp(314): warning C4101: 'pcmatris': unreferenced local variable
+c:\users\berat\onedrive\belgeler\visual studio 2017\projects\consoleapplication34\consoleapplication34\fonksiyonlar.cpp(682): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\berat\onedrive\belgeler\visual studio 2017\projects\consoleapplication34\consoleapplication34\fonksiyonlar.cpp(687): warning C4101: 'pcmatris': unreferenced local variable
+c:\users\berat\onedrive\belgeler\visual studio 2017\projects\consoleapplication34\consoleapplication34\fonksiyonlar.cpp(802): warning C4101: 'pcmatris': unreferenced local variable
+c:\users\berat\onedrive\belgeler\visual studio 2017\projects\consoleapplication34\consoleapplication34\fonksiyonlar.cpp(1059): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\berat\onedrive\belgeler\visual studio 2017\projects\consoleapplication34\consoleapplication34\fonksiyonlar.cpp(678): warning C4715: 'menu': not all control paths return a value
+  ConsoleApplication34.vcxproj -> C:\Users\berat\onedrive\belgeler\visual studio 2017\Projects\ConsoleApplication34\Debug\ConsoleApplication34.exe
+  ConsoleApplication34.vcxproj -> C:\Users\berat\onedrive\belgeler\visual studio 2017\Projects\ConsoleApplication34\Debug\ConsoleApplication34.pdb (Partial PDB)
